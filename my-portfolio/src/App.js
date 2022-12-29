@@ -7,6 +7,7 @@ import Experience from './pages/Experience';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import './pages/pages.css';
+import './app.css';
 
 function App() {
     return (
