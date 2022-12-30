@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu');
 html {
     scroll-behavior: smooth !important;
-    background-color: #333333;
+    background: linear-gradient(45deg, #57003f 0%,#f57453 100%);
     color: #ffffff;
     font-family: 'Ubuntu',sans-serif;
+    
+    
+}
+div{
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -15,5 +21,6 @@ header {
     height: 100%;
     display: flex;
     justify-content: center;
+    align-content: center;
     flex-direction: column;
 }
