@@ -1,5 +1,4 @@
 import React from "react";
-import "./about.css";
 const headshot = require('../images/suncerie-daye-headshot.jpg')
 
 function About() {

@@ -6,8 +6,14 @@ import About from './pages/About';
 import Experience from './pages/Experience';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
-import './pages/pages.css';
-import './app.css';
+import "./css/nav.css";
+import './css/app.css';
+import './css/pages.css';
+import './css/intro.css';
+import "./css/about.css";
+import "./css/experience.css"
+
+
 
 function App() {
     return (

@@ -1,0 +1,55 @@
+.experience-content{
+    margin-top: 10%;
+}
+
+iframe{
+    width: 80%;
+}
+
+@media screen and (max-height: 500px){
+    iframe{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 800px) and (max-height: 600px) {
+    .experience-content{
+        margin-top: 25%;
+    }
+    iframe{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 760px) and (max-height: 900px){
+    .experience-content{
+        margin-top: 5%;
+    }
+    iframe{
+        width:  550px;
+        height: 600px;
+    }
+}
+
+@media screen and (min-width: 760px) and (min-height: 901px){
+    .experience-content{
+        margin-top: 5%;
+    }
+    iframe{
+        width:  700px;
+        height: 900px;
+    }
+}
+
+
+
+
+@media screen and (min-width: 1024px) and (max-height: 960px){
+    .experience-content{
+        margin-top: 5%;
+    }
+    iframe{
+        width:  500px;
+        height: 650px;
+    }
+}
