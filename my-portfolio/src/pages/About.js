@@ -5,7 +5,7 @@ const headshot = require('../images/suncerie-daye-headshot.jpg')
 function About() {
     return <div id="about" className="page">
         <h1>About</h1>
-        <div className="about-content center">
+        <div className="about-content">
             <div>
                 <img src={headshot} alt="Headshot of Suncerie Daye" />
             </div>
