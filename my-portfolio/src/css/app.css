@@ -25,3 +25,7 @@ header {
     align-content: center;
     flex-direction: column;
 }
+
+footer {
+    text-align: center;
+}

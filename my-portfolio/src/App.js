@@ -27,6 +27,12 @@ function App() {
             <Experience />
             <Projects />
             <Contact />
+            <footer>
+                <p><small>&copy; 2022 by
+                    Suncerie Daye, All Rights Reserved ~
+                    </small>
+                </p>
+            </footer>
         </div>
 
     );
