@@ -13,6 +13,7 @@ import './css/intro.css';
 import "./css/about.css";
 import "./css/experience.css";
 import './css/projects.css';
+import './css/contact.css';
 
 
 function App() {
