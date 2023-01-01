@@ -50,12 +50,14 @@ textarea{
 
 /*Horizontal*/
 @media screen and (min-width: 769px) and (max-width: 1024px) and (min-height: 320px) and (max-height: 480px) {
-
+    form{
+        display: none;
+    }
 
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px) and (min-height: 481px) and (max-height: 768px) {
-    
+
 }
 
 /*Small screens and Laptops*/
