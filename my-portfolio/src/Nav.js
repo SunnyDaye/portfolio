@@ -5,7 +5,7 @@ function Nav(){
     return (
         <nav className="nav">
            <div className="dropdown">
-                <button class="dropbtn">Menu</button>
+                <button className="dropbtn">Menu</button>
                 <div className="dropdown-content">
                     <a href="#">Blog</a>
                     <a href="#intro">Home</a>
