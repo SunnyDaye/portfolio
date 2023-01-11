@@ -6,8 +6,8 @@ function Projects() {
         <section className="carousel center" aria-label="carousel" tabIndex="0">
             <a className="carousel__skip-link" href="#skip-link">Skip the Carousel</a>
             <div className="slides">
-                <div className="slides-item slide-1" id="slide-1" aria-label="slide 1 of 5" tabIndex="0">1</div>
-                <div className="slides-item slide-2" id="slide-2" aria-label="slide 2 of 5" tabIndex="0">2</div>
+                <div className="slides-item slide-1" id="slide-1" aria-label="slide 1 of 5" tabIndex="0"><a href="https://sunnydaye.github.io/guess-the-number/" target="_blank">Click to view: Guess The Number</a></div>
+                <div className="slides-item slide-2" id="slide-2" aria-label="slide 2 of 5" tabIndex="0"><a href="https://sunnydaye.github.io/forms/" target="_blank">Click to view: Forms</a></div>
                 <div className="slides-item slide-3" id="slide-3" aria-label="slide 3 of 5" tabIndex="0">3</div>
                 <div className="slides-item slide-4" id="slide-4" aria-label="slide 4 of 5" tabIndex="0">4</div>
                 <div className="slides-item slide-5" id="slide-5" aria-label="slide 5 of 5" tabIndex="0">5</div>
